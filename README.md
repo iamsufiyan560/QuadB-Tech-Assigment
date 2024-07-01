@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/iamsufiyan560/QuadB-Tech-Assigment.git
 cd todo-app
 ```
 
